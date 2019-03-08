@@ -28,7 +28,7 @@ $stream_port 8081
 $output_pictures locate_motion_style
 ```
 
-    About port selection, please refer to [List of TCP and UDP port numbers](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers), <https://stackoverflow.com/questions/218839/assigning-tcp-ip-ports-for-in-house-application-use)
+    About port selection, please refer to [List of TCP and UDP port numbers](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers), <https://stackoverflow.com/questions/218839/assigning-tcp-ip-ports-for-in-house-application-use>
    
 **5. Then edit this file. `$sudo nano /etc/default/motion`**
    And add a description in this file. `start_motion_daemon=yes` 
@@ -57,9 +57,12 @@ $sudo kill -9 [pid]
 
 ### Reference:
 
-** 1. [Raspberry Pi 3 Motion Detection Camera With Live Feed](https://www.instructables.com/id/Raspberry-Pi-Motion-Detection-Security-Camera/)**
-** 2. [Building a Motion Activated Security Camera with the Raspberry Pi Zero](https://www.bouvet.no/bouvet-deler/utbrudd/building-a-motion-activated-security-camera-with-the-raspberry-pi-zero)**
-** 3. <http://blog.cavedu.com/2017/09/13/raspberry-pi%E8%87%AA%E8%A3%BD%E7%B8%AE%E6%99%82%E6%94%9D%E5%BD%B1%E6%A9%9F/>**
-** 4. time lapse video free software : [Startrails](http://www.startrails.de/html/software.html)**
+**1. [Raspberry Pi 3 Motion Detection Camera With Live Feed](https://www.instructables.com/id/Raspberry-Pi-Motion-Detection-Security-Camera/)**
+<br/>
+**2. [Building a Motion Activated Security Camera with the Raspberry Pi Zero](https://www.bouvet.no/bouvet-deler/utbrudd/building-a-motion-activated-security-camera-with-the-raspberry-pi-zero)**
+<br/>
+**3. <http://blog.cavedu.com/2017/09/13/raspberry-pi%E8%87%AA%E8%A3%BD%E7%B8%AE%E6%99%82%E6%94%9D%E5%BD%B1%E6%A9%9F/>**
+<br/>
+**4. time lapse video free software : [Startrails](http://www.startrails.de/html/software.html)**
 
 
